@@ -1,0 +1,148 @@
+
+
+body{
+    width: 1440px;
+    font-size: 14px;
+}
+ 
+/*attribute*/
+
+.attribution { 
+    font-size: 11px; text-align: center;
+    padding-top:20px;
+    position: fixed;
+    top: 90%;
+    right: 40%;
+     }
+
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+          }
+
+    
+/* first box*/
+    
+   .col{
+    background-color: hsl(229, 57%, 11%);
+    padding-top: 19%; 
+    position: fixed;
+}
+
+.div-1{
+    background-color: hsl(228, 56%, 26%);
+    width: 260px;
+    height: 150px;
+    border-radius: 10px;
+    border-top-right-radius: 50%;
+    position:fixed;
+    top:200px;
+    left: 18%;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+ ul li{
+    display: inline;
+    padding: 5px;
+    padding-top: 20px;
+    margin: 5px;
+    background-color:  hsl(229, 57%, 11%);
+    border-radius: 5px;
+
+}
+
+.li-3{
+    padding-bottom: 5px;
+}
+
+.logo{
+ padding-top: 30px;
+ padding-bottom: 15px;
+ margin-left: 30px;
+}
+
+
+     /*  second box*/
+.demo{
+    background-color: hsl(228, 56%, 26%);
+    width: 370px;
+    height: 130px;
+    padding-left: 3%;
+    border-radius: 10px;
+    position:fixed;
+    top: 230px;
+    left: 40%;
+    
+
+}
+
+.demo-1{
+    background-color: hsl(229, 57%, 11%);
+    width: 330px;
+    height: 12px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+
+.div-2{
+    height: 100%;
+    width:250px ;
+    box-sizing: border-box;
+    background:linear-gradient(to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+    border-radius: 20px;
+}
+
+.fix-1{
+    color:hsl(243, 100%, 93%);
+    margin-right: 62%;
+    
+    
+}
+
+.fix-2{
+    color:hsl(243, 100%, 93%); 
+     
+}
+
+.para{
+    color: hsl(229, 7%, 55%);;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    font-weight: 400;
+    
+}
+.big{
+    color: hsl(243, 100%, 93%);
+    font-weight: 700;
+}
+
+
+/*third box*/
+
+.left{
+    background-color:hsl(243, 100%, 93%); 
+    width: 135px;
+    height: 38px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    clip-path: polygon(0% 0%, 100% 0%, 99% 94%, 89% 75%, 97% 75%, 50% 75%, 0% 75%);
+    position: fixed; 
+    top: 200px;
+    right: 430px;
+}
+
+.one{
+    font-weight: 700;
+    font-size:x-large;  
+}
+
+.two{
+    color: hsl(229, 7%, 55%);
+}

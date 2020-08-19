@@ -1,0 +1,140 @@
+
+body{
+    width: 375px;
+    font-size: 14px;
+}
+
+/*attribute*/
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+    position: fixed;
+    top: 90%;
+    left: 30%;
+}
+
+
+.attribution a {
+     color: hsl(228, 45%, 44%);
+     }
+
+.col{
+    padding-bottom: 10%;
+    position: fixed;
+}
+
+           /*first box*/
+.div-1{
+    background-color: hsl(228, 56%, 26%);
+    width: 330px;
+    height: 180px;
+    border-radius: 10px;
+    border-top-right-radius: 50%;
+    position:fixed;
+    top:150px;
+    left: 2%;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+ ul li{
+    display: inline;
+    padding: 5px;
+    padding-top: 20px;
+    margin: 15px;
+    background-color:  hsl(229, 57%, 11%);
+    border-radius: 5px;
+
+}
+
+.li-3{
+    padding-bottom: 5px;
+}
+
+.logo{
+ padding-top: 30px;
+ padding-bottom: 15px;
+ margin-left: 45px;
+}
+
+
+     /* second box*/
+.demo{
+    background-color: hsl(228, 56%, 26%);
+    width: 290px;
+    height: 150px;
+    padding-left: 3%;
+    border-radius: 10px;
+    position:fixed;
+    top: 55%;
+    left: 2%;
+}
+
+.demo-1{
+    background-color: hsl(229, 57%, 11%);
+    width: 230px;
+    height: 12px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+
+.div-2{
+    height: 100%;
+    width:170px ;
+    box-sizing: border-box;
+    background:linear-gradient(to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+    border-radius: 20px;
+}
+
+.fix-1{
+    color:hsl(243, 100%, 93%);
+    margin-right: 47%;
+    
+    
+}
+
+.fix-2{
+    color:hsl(243, 100%, 93%); 
+     
+}
+
+.para{
+    color: hsl(229, 7%, 55%);;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    font-weight: 400;
+    
+}
+.big{
+    color: hsl(243, 100%, 93%);
+    font-weight: 700;
+}
+
+
+           /* third box*/
+
+.left{
+    background-color:hsl(243, 100%, 93%); 
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    position: relative;
+    left: 35px;
+    top: 15px;
+}
+
+.one{
+    font-weight: 700;
+    font-size:x-large;  
+}
+
+.two{
+    color: hsl(229, 7%, 55%);
+}
